@@ -3,7 +3,7 @@ package com.SantiagoBurgos05.my_mobil_app
 class Condicionales {
 }
 fun main(){
-   /* println("Ingrese el primer numero")
+   /* println("Ingrese el primer numero") 
     var num1: Int= readLine()!!.toInt()
     println("Ingrese el primer numero")
     var num2: Int= readLine()!!.toInt()
