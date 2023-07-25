@@ -1,4 +1,4 @@
-package com.SantiagoBurgos05.my_app_movil
+package com.SantiagoBurgos05.my_mobil_app
 
 class Arreglos {
 }
